@@ -1,4 +1,6 @@
 [![Gitter](https://badges.gitter.im/ShibuiElements/shibui-dropdown-menu.svg)](https://gitter.im/ShibuiElements/shibui-dropdown-menu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/ShibuiElementsshibui-dropdown-menu)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/ShibuiElementsshibui-dropdown-menu.svg)](https://vaadin.com/directory/component/ShibuiElementsshibui-dropdown-menu)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/ShibuiElements/shibui-dropdown-menu)
 [![Build status](https://travis-ci.org/ShibuiElements/shibui-dropdown-menu.svg?branch=master)](https://travis-ci.org/ShibuiElements/shibui-dropdown-menu)
 
