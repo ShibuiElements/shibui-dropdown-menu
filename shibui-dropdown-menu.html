@@ -36,7 +36,8 @@ Example:
     </div>
     <shibui-dropdown id="dropdown"
       opened="{{opened}}"
-      alignment="[[alignment]]">
+      alignment="[[alignment]]"
+      target="[[_target]]">
       <slot></slot>
     </shibui-dropdown>
   </template>
@@ -73,6 +74,7 @@ Example:
       attached: function() {
         this._toggle = this._toggle.bind(this);
         this._triggerElement.addEventListener('tap', this._toggle);
+        this._target = this._triggerElement;
       },
 
       detached: function() {
